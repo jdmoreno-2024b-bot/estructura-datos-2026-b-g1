@@ -52,4 +52,4 @@ git pull origin main
 ### 3. Clase: Pedido
 - **Atributos:** idPedido, listaProductos, fecha, estado
 - **Métodos:** calcularTotal(), cambiarEstado(), generarFactura()
-- **Abstracción:** Dejé fuera la ruta del camión, el nombre del mensajero y la hora exacta de apertura del paquete. Solo el flujo de creación, pago y entrega.
+- **Abstracción:** Dejé fuera la ruta del camión, el nombre del mensajero y la hora exacta de apertura del paquete. Solo el flujo de creación, pago y entrega. 
