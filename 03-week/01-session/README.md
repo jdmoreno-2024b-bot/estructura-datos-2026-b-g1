@@ -1,1 +1,1 @@
-No expuse setSaldo porque rompería la invariante saldo >= 0.Si existiera, alguien podría hacer setSaldo(-1000) y dejar la cuenta en negativo.Por eso solo dejo consignar() y retirar(), que validan y mantienen el objeto siempre válido.
+No expuse setSaldo porque rompería la invariante saldo >= 0.Si existiera, alguien podría hacer setSaldo(-1000) y dejar la cuenta en negativo.Por eso solo dejo consignar() y retirar(), que validan y mantienen el objeto siempre válido.git add 
